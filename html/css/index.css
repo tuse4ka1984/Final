@@ -1,12 +1,25 @@
 .logo {
 	 float: left;
+	 padding: 50px 30px;
+	 }
+.jpg {
+		margin: 350px 20px 30px 50px
+		}  
+.jpg2 {
+		margin: 340px 20px 30px 50px
+ 	}                     
+body {
+margin-top: -23px;
+margin-left: -23px;
+margin-bottom: -23px
 }
  nav {
 	 float: right;
+	 padding: 30px                     
 }
- nav ul {
-	 margin: 0;
-	 padding: 0;
+ nav ul {                   
+	 margin: auto;
+	 padding: auto;
 	 list-style: none;
 }
  nav li {
